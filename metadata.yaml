@@ -1,0 +1,44 @@
+_repo: Palmer-s-Journal-of-Travels-Over-the-Rocky-Mountains-1845-1846_46906
+contributor:
+  contributor:
+    agent_name: Spalding, Henry Harmon
+    alias: Spalding, H. H. (Henry Harmon)
+    birthdate: 1803
+    deathdate: 1874
+    gutenberg_agent_id: '42556'
+    url: http://www.gutenberg.org/2009/agents/42556
+  creator:
+    editor:
+      agent_name: Thwaites, Reuben Gold
+      alias: Thwaites, R. G. (Reuben Gold)
+      birthdate: 1853
+      deathdate: 1913
+      gutenberg_agent_id: '33780'
+      url: http://www.gutenberg.org/2009/agents/33780
+creator:
+  author:
+    agent_name: Palmer, Joel
+    birthdate: 1810
+    deathdate: 1881
+    gutenberg_agent_id: '44023'
+    url: http://www.gutenberg.org/2009/agents/44023
+description: ''
+gutenberg_issued: '2014-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Early western travels, 1748-1846, v. 30
+subjects:
+- !lcsh 'Oregon -- Description and travel'
+- !lcsh 'Chinook jargon -- Dictionaries -- English'
+- !lcsh 'Nez Percé language -- Dictionaries -- English'
+- !lcsh 'Willamette River Valley (Or.) -- Description and travel'
+- !lcsh 'Overland journeys to the Pacific'
+- !lcsh 'Law -- Oregon'
+- !lcc 'F590.3'
+title: Palmer's Journal of Travels Over the Rocky Mountains, 1845-1846
+url: http://www.gutenberg.org/ebooks/46906
